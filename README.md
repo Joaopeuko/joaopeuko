@@ -14,6 +14,8 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
 
 <h3 align="left">Connect with me:</h3>
+
+- [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
 <p align="left">
 </p>
 
