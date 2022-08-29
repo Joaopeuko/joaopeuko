@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Joaopeuko GitHub.io](https://joaopeuko.github.io/)
 
-- 🌱 I am currently taking a **Master degree in Computer Science - Artificial Intelligence**
+- 🌱 I am currently taking a **Master's degree in Computer Science - Artificial Intelligence**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
 
