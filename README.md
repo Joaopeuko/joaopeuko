@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopeuko" alt="joaopeuko" /></a> </p>
 
-- 🔭 I’m currently working on [EasyT](https://github.com/Joaopeuko/easyT)
+- 🔭 I’m currently working on a personal project called [EasyT](https://github.com/Joaopeuko/easyT)
 
 - 👨‍💻 All of my projects are available at [Joaopeuko GitHub.io](https://joaopeuko.github.io/)
 
