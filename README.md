@@ -11,7 +11,7 @@
 
 - 🌱 I am currently taking a **Master's degree in Computer Science - Artificial Intelligence**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
 
 <h3 align="left">Connect with me:</h3>
 
