@@ -1,27 +1,91 @@
-<h1 align="center">Hi 👋, I'm Joao Paulo Euko</h1>
-<h3 align="center">I am a software developer / machine learning engineer / data scientist with a finance background</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joao Paulo Euko | MLOps Engineer & Data Scientist</title>
+  <style>
+    /* Add your CSS styles here to customize colors, spacing, etc.  */
+    body {
+      font-family: sans-serif;
+      margin: 1.5rem;
+    }
+    h1, h2, h3 {
+      margin: 1rem 0;
+    }
+    .section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 1.5rem;
+    }
+    .section img {
+      width: 200px;
+      /* Adjust image width as needed */
+    }
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .skills a {
+      margin: 0.5rem;
+    }
+    .social-links {
+      display: flex;
+      justify-content: center;
+    }
+    .social-links a {
+      margin: 0 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="section">
+    <h1>Joao Paulo Euko</h1>
+    <h2>MLOps Engineer & Data Scientist</h2>
+  </header>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopeuko&label=Profile%20views&color=0e75b6&style=flat" alt="joaopeuko" /> </p>
+  <main>
+    <section class="section">
+      <h3>About Me</h3>
+      <p>I am a passionate software developer with a strong background in machine learning and data science. My expertise lies in building and deploying AI solutions for real-world applications. I am currently pursuing a Master's degree in Computer Science with a focus on Artificial Intelligence to further enhance my knowledge and skills.</p>
+    </section>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaopeuko" alt="joaopeuko" /></a> </p>
+    <section class="section">
+      <h3>Education</h3>
+      <ul>
+        <li>Master of Science in Computer Science - Artificial Intelligence (In Progress)</li>
+      </ul>
+    </section>
 
-- 🔭 I’m currently working on a personal project called [EasyT](https://github.com/Joaopeuko/easyT)
+    <section class="section">
+      <h3>Projects</h3>
+      <ul>
+        <li>
+          **EasyT:** (Brief description of your project)
+          <br>
+          <a href="[Link to your EasyT project]">
+            <img src="[Image URL for EasyT project]" alt="[EasyT project description]">
+          </a>
+        </li>
+      </ul>
+      <p>See more projects on my portfolio: [Joaopeuko GitHub.io](https://joaopeuko.github.io/)</p>
+    </section>
 
-- 👨‍💻 All of my projects are available at [Joaopeuko GitHub.io](https://joaopeuko.github.io/)
+    <section class="section skills">
+      <h3>Skills</h3>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python</a>
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> PyTorch</a>
+      </section>
 
-- 🌱 I am currently taking a **Master's degree in Computer Science - Artificial Intelligence**
+    <section class="section social-links">
+      <h3>Connect with Me</h3>
+      <a href="[Link to your LinkedIn profile]">LinkedIn</a>
+    </section>
+  </main>
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
-
-<h3 align="left">Connect with me:</h3>
-
-- [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopeuko&" alt="joaopeuko" /></p>
-
-
+  <footer>
+    </footer>
+</body>
+</html>
