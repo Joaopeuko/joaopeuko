@@ -11,6 +11,8 @@
 
 - 🌱 I am currently taking a **Master's degree in Computer Science - Artificial Intelligence**
 
+- Contributor to the [UV](<https://github.com/astral-sh/uv>) repository.
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joaopeuko/)
 
 <h3 align="left">Connect with me:</h3>
