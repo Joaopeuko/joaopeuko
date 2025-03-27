@@ -1,5 +1,6 @@
-<h1 align="center">John Euko</h1>
-<h3 align="center">MLOps Engineer | Machine Learning Engineer | Finance Background</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+John+Euko;MLOps+Engineer" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopeuko&label=Profile%20views&color=0e75b6&style=flat" alt="joaopeuko" /> </p>
 
